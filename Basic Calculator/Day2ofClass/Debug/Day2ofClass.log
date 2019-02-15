@@ -1,0 +1,5 @@
+﻿  Day2ofClass.cpp
+c:\users\justi\source\repos\day2ofclass\day2ofclass\day2ofclass.cpp(32): warning C4101: 'tg': unreferenced local variable
+c:\users\justi\source\repos\day2ofclass\day2ofclass\day2ofclass.cpp(31): warning C4101: 'thing': unreferenced local variable
+  Day2ofClass.vcxproj -> C:\Users\justi\source\repos\Day2ofClass\Debug\Day2ofClass.exe
+  Day2ofClass.vcxproj -> C:\Users\justi\source\repos\Day2ofClass\Debug\Day2ofClass.pdb (Partial PDB)

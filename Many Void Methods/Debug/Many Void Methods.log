@@ -1,0 +1,4 @@
+﻿  ManyVoidMethods.cpp
+c:\users\justi\source\repos\many void methods\many void methods\manyvoidmethods.cpp(64): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Many Void Methods.vcxproj -> C:\Users\justi\source\repos\Many Void Methods\Debug\Many Void Methods.exe
+  Many Void Methods.vcxproj -> C:\Users\justi\source\repos\Many Void Methods\Debug\Many Void Methods.pdb (Partial PDB)

@@ -1,0 +1,10 @@
+﻿  ConsoleApplication10.cpp
+c:\users\justi\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(44): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\justi\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(48): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\justi\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\justi\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\justi\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\justi\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\justi\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(25): warning C4715: 'squareroot': not all control paths return a value
+c:\users\justi\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(41): warning C4715: 'logs': not all control paths return a value
+LINK : fatal error LNK1168: cannot open C:\Users\justi\source\repos\ConsoleApplication10\Debug\ConsoleApplication10.exe for writing

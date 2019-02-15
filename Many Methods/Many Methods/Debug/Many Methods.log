@@ -1,0 +1,4 @@
+﻿  ManyMethods.cpp
+c:\users\justi\source\repos\many methods\many methods\manymethods.cpp(26): error C2059: syntax error: ','
+c:\users\justi\source\repos\many methods\many methods\manymethods.cpp(28): error C3861: 'totalmoves': identifier not found
+c:\users\justi\source\repos\many methods\many methods\manymethods.cpp(79): warning C4244: '=': conversion from 'double' to 'int', possible loss of data

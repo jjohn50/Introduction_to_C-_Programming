@@ -1,0 +1,6 @@
+﻿  GradeCalculator.cpp
+c:\users\justi\source\repos\grade_calculator\grade_calculator\gradecalculator.cpp(52): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\justi\source\repos\grade_calculator\grade_calculator\gradecalculator.cpp(53): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\justi\source\repos\grade_calculator\grade_calculator\gradecalculator.cpp(54): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Grade_Calculator.vcxproj -> C:\Users\justi\source\repos\Grade_Calculator\Debug\Grade_Calculator.exe
+  Grade_Calculator.vcxproj -> C:\Users\justi\source\repos\Grade_Calculator\Debug\Grade_Calculator.pdb (Partial PDB)

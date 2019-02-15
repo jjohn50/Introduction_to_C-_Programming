@@ -1,0 +1,7 @@
+﻿  GradePredictorProgram.cpp
+c:\users\justi\source\repos\gradepredictorprogram\gradepredictorprogram\gradepredictorprogram.cpp(29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\justi\source\repos\gradepredictorprogram\gradepredictorprogram\gradepredictorprogram.cpp(24): warning C4101: 'hww': unreferenced local variable
+c:\users\justi\source\repos\gradepredictorprogram\gradepredictorprogram\gradepredictorprogram.cpp(24): warning C4101: 'midtermw': unreferenced local variable
+c:\users\justi\source\repos\gradepredictorprogram\gradepredictorprogram\gradepredictorprogram.cpp(18): error C4700: uninitialized local variable 'sum' used
+c:\users\justi\source\repos\gradepredictorprogram\gradepredictorprogram\gradepredictorprogram.cpp(27): error C4700: uninitialized local variable 'midterm1' used
+c:\users\justi\source\repos\gradepredictorprogram\gradepredictorprogram\gradepredictorprogram.cpp(28): error C4700: uninitialized local variable 'finalw' used
